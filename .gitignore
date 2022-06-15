@@ -1,6 +1,7 @@
 ### Fortran ###
 # Prerequisites
 *.d
+*.f
 
 # Compiled Object files
 *.slo
