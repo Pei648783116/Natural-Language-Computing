@@ -1,1 +1,2 @@
-.Fortran linguist-detectable=false
+*.Fortran linguist-detectable=false
+*.f linguist-detectable=false
