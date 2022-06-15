@@ -1,0 +1,22 @@
+How to perform operation on PyTorch tensors (first half is important):
+https://www.youtube.com/watch?v=x9JiIFvlUwk
+
+PyTorch basics (create model, choose optimizer, training):
+https://www.youtube.com/watch?v=Jy4wM2X21u0&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=3
+(equivalent from assignment) https://pytorch.org/
+tutorials/beginner/deep_learning_60min_blitz.html
+
+Code for the following videos:
+https://github.com/aladdinpersson/Machine-Learning-Collection/tree/a2ee9271b5280be6994660c7982d0f44c67c3b63/ML/Pytorch/more_advanced
+Video on seq2seq:
+https://www.youtube.com/watch?v=EoGUlvhRYpk
+Video on seq2seq with attention:
+https://www.youtube.com/watch?v=sQUqQddQtB4
+Video on Transformer:
+https://www.youtube.com/watch?v=U0s0f995w14
+
+Notebook 1 for seq2seq:
+https://github.com/bentrevett/pytorch-seq2seq
+(Notebook 4 potentially for BLEU)
+
+

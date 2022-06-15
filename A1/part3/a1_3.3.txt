@@ -1,0 +1,32 @@
+5 p-values: ['7.170495251768186e-21', '3.0755927284153586e-25', '3.780100715498279e-09', '1.0729808947423882e-34', '1.2613506664937296e-31']
+50 p-values: ['7.170495251768186e-21', '2.8001355216916817e-09', '5.913313245316087e-09', '3.0755927284153586e-25', '6.040194554292767e-09', '1.1131617626019518e-08', '1.650461915249567e-08', '1.368930270798203e-08', '4.8719129850381805e-09', '6.291334465815646e-09', '3.768888593199585e-09', '2.1845042080099345e-08', '5.104689339795167e-08', '3.2353442873125766e-09', '4.603865708865767e-08', '1.6127587031213632e-08', '4.493829839072008e-08', '2.769814668453699e-09', '1.2068879524889201e-08', '3.780100715498279e-09', '7.427406198806003e-09', '6.671839563897097e-08', '2.1248736949380516e-09', '6.532482186440304e-08', '1.1368997668989575e-08', '1.736623125942937e-08', '3.2761650960680026e-08', '4.937584175727578e-09', '6.98659190704981e-09', '4.561460990193069e-08', '4.525176484726114e-09', '4.315686040157995e-09', '1.0729808947423882e-34', '1.510545316455095e-08', '6.28880028632991e-09', '2.7415499998872767e-09', '1.4897985547271507e-08', '6.195015215731282e-08', '1.2613506664937296e-31', '4.1754794340990475e-09', '3.025673233394785e-08', '9.057392833844059e-09', '7.174043555145055e-09', '3.655215713581782e-09', '1.1030009271221953e-08', '1.5262258289374024e-08', '1.0638458384356657e-09', '1.6580372932772007e-08', '2.0716100024704017e-08', '1.158382732569236e-09']
+Accuracy for 1k: 0.3651
+Accuracy for full dataset: 0.3999
+Chosen feature intersection: [96, 83, 35, 29]
+Top-5 at higher: [29 35 64 83 96]
+
+Q5a-
+The four feature numbers with their names and their explanations are listed below: 
+feature 97 - name: LIWC relativity - (Motion/space/time. Relatieivity words are less abstract and more concerete to the event/secenarios)
+feature 84 - name: LIWC motion.  - (A subcategory of relative. Any words that indicate a motion like go/car/arrive)
+
+The LIWC measures the percentage of words in the comment that falls into this linguistic category. In this case, the 2 categories for features 97 and 84. These words can indicate how much a person making the comment is inclined to take an action towards the topic; therefore, give an indication on the person's political standing.
+
+feature 36 - name: LIWC Other Punctions  -(non standard punctuation)
+feature 30- name: LIWC all punctuations. - (how much standard punctuations there is)
+
+These 2 feature could be very useful because if the comment only contains punctuations on a subjects like "?" or "!" that could
+help us to identify what the person's perspective on the topic very easily. Also some standard and non-standard punctuation characters can be used to form emoticons, which also indicate a person's sentiment.
+
+Q5b - The p values are generally higher given less data. The null hypothesis is that there is no correlation between the feature and the prediction. The higher the p value the more we can confirm this null hypothesis. With less data it can be more difficult to see the trend between the features and the prediction
+as there is less sample cases for each category result; theefore, the less data the more likely the features and the prediction can see to have no correlation and hence the higher the p value. 
+
+Q5c- 
+Top 5 features with their names:
+feature 30- name: LIWC all punctuations. 
+feature 36 - name: LIWC Other Punctions  
+feature 65- name: LIWC female.
+feature 84 - name: LIWC motion. 
+feature 97 - name: LIWC relativity 
+
+Why features 30,65,84 and 97 can be used to differentiate the classes are already explained in part a. For feature 65- female, it means how much the text are discussing female reference/female social words. This can be helpful as different political parties can be very different gener equality policies and or they can attract people with certain genders or perspectives on genders.

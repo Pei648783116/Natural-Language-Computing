@@ -1,0 +1,24 @@
+Experiments:
+
+I have tried the following settings of M, maxIter, and % training data used: 
+
+M = 2, 5, 8
+maxIter = 2, 3, 5, 10, 20
+% training data used = 10, 30, 50
+
+The default settings of M = 8, maxIter = 20, and 100% of training data yielded an accuracy of 100%.
+
+When keeping maxIter = 10, and using all training data, the accuracy still was at 100% regardless of the M setting. When maxIter = 5, and train test split is the default setting, the accuracy remained at 100% until M was reduced to 2, which yielded an accuracy of 93.5%. Therefore, it can be concluded that reducing M does affect the accuracy negatively.
+When keeping M and using all training data, the accuracy remained at 100% until maxIter was reduced to 2 from 20. maxIter = 2  yielded an accuracy 96.9%. Therefore it can also be concluded that reducing maxIter will likely negatively impact the accuracy.
+When keeping maxIter and M both at 5, and varying the % training data. It can be seen that the less training data we used, the worse the model performed. At 10% the accuracy was 53.1%, while at 30% and 50% it was 93.8%. Therefore it can be concluded that using less data has an negative impact on the model performance. 
+
+Hypothetical questions:
+1) How might you improve the classification accuracy of the Gaussian mixtures, without adding more training data?
+From the above analysis, it can be concluded that increasing the number of M (components of GMM) and increasing the number of maxIter(iterations) can potentially improve the accuracy of the Gassuian mixture. Using another machine learning model to help with the classification could also increase the accuracy eg an ensemble of ML models.
+
+2) When would your classifier decide that a given test utterance comes from none of the trained speaker models, and how would your classifier come to this decision?
+If the likelihoods outputs are all very low below a certain threshold, then it might decide that the test utterance does not come from any fo the trained speaker models. This would occur when the test utterances' features are not similar to any of the training data's utterances'.
+
+3) Can you think of some alternative methods for doing speaker identification that don’t use Gaussian mixtures?
+Other classifical machine learning models like random forest can be used for the classification instead or using an end to end neural network as discussed in the lecture slide can also do the same. 
+

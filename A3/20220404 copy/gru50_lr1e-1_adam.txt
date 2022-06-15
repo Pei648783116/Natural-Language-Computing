@@ -1,0 +1,73 @@
+Training epoch 1
+Iteration: 1. Training Loss: 0.694. Training Accuracy: 0.531
+Iteration: 2. Training Loss: 1.594. Training Accuracy: 0.500
+Iteration: 3. Training Loss: 2.098. Training Accuracy: 0.625
+Iteration: 4. Training Loss: 0.736. Training Accuracy: 0.656
+Iteration: 5. Training Loss: 2.684. Training Accuracy: 0.281
+Iteration: 6. Training Loss: 2.314. Training Accuracy: 0.312
+Iteration: 7. Training Loss: 0.911. Training Accuracy: 0.310
+End of epoch 1. Validation Loss: 1.193. Validation Accuracy: 0.731
+Training epoch 2
+Iteration: 1. Training Loss: 1.457. Training Accuracy: 0.656
+Iteration: 2. Training Loss: 2.336. Training Accuracy: 0.500
+Iteration: 3. Training Loss: 1.324. Training Accuracy: 0.625
+Iteration: 4. Training Loss: 0.693. Training Accuracy: 0.344
+Iteration: 5. Training Loss: 0.822. Training Accuracy: 0.281
+Iteration: 6. Training Loss: 0.708. Training Accuracy: 0.688
+Iteration: 7. Training Loss: 0.666. Training Accuracy: 0.690
+End of epoch 2. Validation Loss: 0.871. Validation Accuracy: 0.284
+Training epoch 3
+Iteration: 1. Training Loss: 0.746. Training Accuracy: 0.344
+Iteration: 2. Training Loss: 0.669. Training Accuracy: 0.500
+Iteration: 3. Training Loss: 0.710. Training Accuracy: 0.406
+Iteration: 4. Training Loss: 0.691. Training Accuracy: 0.438
+Iteration: 5. Training Loss: 0.697. Training Accuracy: 0.406
+Iteration: 6. Training Loss: 0.685. Training Accuracy: 0.625
+Iteration: 7. Training Loss: 0.642. Training Accuracy: 0.690
+End of epoch 3. Validation Loss: 0.697. Validation Accuracy: 0.731
+Training epoch 4
+Iteration: 1. Training Loss: 0.691. Training Accuracy: 0.656
+Iteration: 2. Training Loss: 0.939. Training Accuracy: 0.500
+Iteration: 3. Training Loss: 0.809. Training Accuracy: 0.625
+Iteration: 4. Training Loss: 0.693. Training Accuracy: 0.656
+Iteration: 5. Training Loss: 0.680. Training Accuracy: 0.719
+Iteration: 6. Training Loss: 0.679. Training Accuracy: 0.594
+Iteration: 7. Training Loss: 0.602. Training Accuracy: 0.621
+End of epoch 4. Validation Loss: 0.771. Validation Accuracy: 0.348
+Training epoch 5
+Iteration: 1. Training Loss: 0.651. Training Accuracy: 0.531
+Iteration: 2. Training Loss: 0.683. Training Accuracy: 0.438
+Iteration: 3. Training Loss: 0.687. Training Accuracy: 0.469
+Iteration: 4. Training Loss: 0.684. Training Accuracy: 0.438
+Iteration: 5. Training Loss: 0.744. Training Accuracy: 0.406
+Iteration: 6. Training Loss: 0.711. Training Accuracy: 0.438
+Iteration: 7. Training Loss: 0.616. Training Accuracy: 0.621
+End of epoch 5. Validation Loss: 0.762. Validation Accuracy: 0.348
+Training epoch 6
+Iteration: 1. Training Loss: 0.644. Training Accuracy: 0.531
+Iteration: 2. Training Loss: 0.689. Training Accuracy: 0.438
+Iteration: 3. Training Loss: 0.681. Training Accuracy: 0.438
+Iteration: 4. Training Loss: 0.664. Training Accuracy: 0.438
+Iteration: 5. Training Loss: 0.715. Training Accuracy: 0.406
+Iteration: 6. Training Loss: 0.690. Training Accuracy: 0.469
+Iteration: 7. Training Loss: 0.596. Training Accuracy: 0.621
+End of epoch 6. Validation Loss: 0.722. Validation Accuracy: 0.412
+Training epoch 7
+Iteration: 1. Training Loss: 0.623. Training Accuracy: 0.625
+Iteration: 2. Training Loss: 0.706. Training Accuracy: 0.438
+Iteration: 3. Training Loss: 0.680. Training Accuracy: 0.469
+Iteration: 4. Training Loss: 0.652. Training Accuracy: 0.438
+Iteration: 5. Training Loss: 0.698. Training Accuracy: 0.438
+Iteration: 6. Training Loss: 0.683. Training Accuracy: 0.531
+Iteration: 7. Training Loss: 0.592. Training Accuracy: 0.655
+End of epoch 7. Validation Loss: 0.718. Validation Accuracy: 0.397
+Training epoch 8
+Iteration: 1. Training Loss: 0.622. Training Accuracy: 0.625
+Iteration: 2. Training Loss: 0.709. Training Accuracy: 0.438
+Iteration: 3. Training Loss: 0.681. Training Accuracy: 0.469
+Iteration: 4. Training Loss: 0.650. Training Accuracy: 0.438
+Iteration: 5. Training Loss: 0.695. Training Accuracy: 0.438
+Iteration: 6. Training Loss: 0.681. Training Accuracy: 0.531
+Iteration: 7. Training Loss: 0.591. Training Accuracy: 0.655
+End of epoch 8. Validation Loss: 0.715. Validation Accuracy: 0.397
+Model test accuracy: 0.290

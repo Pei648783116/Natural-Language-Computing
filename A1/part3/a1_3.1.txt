@@ -1,0 +1,51 @@
+Results for sgd_classifier:
+	Accuracy: 0.4045
+	Recall: [0.7548, 0.0847, 0.2334, 0.5563]
+	Precision: [0.4503, 0.526, 0.4311, 0.3359]
+	Confusion Matrix: 
+[[1505   35  146  308]
+ [ 766  172  198  894]
+ [ 546   57  472  947]
+ [ 525   63  279 1087]]
+
+Results for gaussian_nb:
+	Accuracy: 0.3490
+	Recall: [0.7839, 0.065, 0.1746, 0.3808]
+	Precision: [0.3501, 0.75, 0.4567, 0.2876]
+	Confusion Matrix: 
+[[1563    8   84  339]
+ [1059  132  122  717]
+ [ 863   19  353  787]
+ [ 979   17  214  744]]
+
+Results for random_forest:
+	Accuracy: 0.4334
+	Recall: [0.5853, 0.097, 0.5623, 0.4944]
+	Precision: [0.6261, 0.6024, 0.3974, 0.3277]
+	Confusion Matrix: 
+[[1167   47  340  440]
+ [ 350  197  621  862]
+ [ 173   32 1137  680]
+ [ 174   51  763  966]]
+
+Results for mlp_classifier:
+	Accuracy: 0.4410
+	Recall: [0.6118, 0.6197, 0.3328, 0.1929]
+	Precision: [0.6171, 0.3436, 0.4541, 0.4284]
+	Confusion Matrix: 
+[[1220  512  177   85]
+ [ 348 1258  272  152]
+ [ 234  849  673  266]
+ [ 175 1042  360  377]]
+
+Results for ada_boost:
+	Accuracy: 0.4600
+	Recall: [0.654, 0.3103, 0.5134, 0.3623]
+	Precision: [0.5965, 0.4315, 0.4318, 0.3631]
+	Confusion Matrix: 
+[[1304  198  279  213]
+ [ 399  630  479  522]
+ [ 243  234 1038  507]
+ [ 240  398  608  708]]
+
+This best classifer is AdaBoost classifer.

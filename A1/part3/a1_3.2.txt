@@ -1,0 +1,12 @@
+1000: 0.3721
+5000: 0.3874
+10000: 0.3885
+15000: 0.3925
+20000: 0.3836
+
+
+My hypothesis was that I expected to see an increase to accuracy as the sample numbers increase. This is because an increase
+in sample numbers would mean the model is able to generalize better since it is trained on more training dats. 
+There is less chance of overrfiting to small amount of dataset that is not representative of the entire population.
+There are more cases the model is able to see now that it would have not been exposed to with less samples.
+I do observe this hypothesized trend on this result.

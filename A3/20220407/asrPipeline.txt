@@ -1,0 +1,11 @@
+Using Google's online transcription service:
+
+For the word I tried "potatoes" and it outputted "potatoes", which means it worked very well. 
+
+For the one short sentence I tried "I want to eat pig brains right now" and it outputted "I want to eat pig brains right now", which is also 100% accurate. 
+
+For a longer sentence, I tried reading "It reached number one on the Oricon chart and sold two million copies, being certified by the RIAJ", and it outputted 
+"It reached number one on the Oricon chart and sold two million copies being certified by D R I H A". It got almost everything correct other than the word "the" was outputted as letter "D" and the letter "J" was outputted as "HA".
+
+I spoke these sentences into my phone, recorded it and used them on Google's voice search. The ASR performed very well for short sentences and the and word with 100% auccracy. For the longer sentence read slowly it only 
+got two words incorrect, so it still performed well overall. 

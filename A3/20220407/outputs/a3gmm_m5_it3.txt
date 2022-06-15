@@ -1,0 +1,1121 @@
+S-10B
+Train: iter 0 with M=5 T=61609
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-377876668.742 (improved by inf)
+Train: iter 1 with M=5 T=61609
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3009369.67179 (improved by 374867299.07)
+Train: iter 2 with M=5 T=61609
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3002414.1973 (improved by 6955.47449585)
+Train: iter 3 with M=5 T=61609
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3000915.57704 (improved by 1498.62025893)
+S-21A
+Train: iter 0 with M=5 T=70013
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-355423770.239 (improved by inf)
+Train: iter 1 with M=5 T=70013
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3360694.62793 (improved by 352063075.611)
+Train: iter 2 with M=5 T=70013
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3345228.50619 (improved by 15466.1217428)
+Train: iter 3 with M=5 T=70013
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3335781.37473 (improved by 9447.13146468)
+S-7C
+Train: iter 0 with M=5 T=93816
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-661494759.12 (improved by inf)
+Train: iter 1 with M=5 T=93816
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4525569.21356 (improved by 656969189.906)
+Train: iter 2 with M=5 T=93816
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4514009.19271 (improved by 11560.0208573)
+Train: iter 3 with M=5 T=93816
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4506369.64852 (improved by 7639.54418436)
+S-19C
+Train: iter 0 with M=5 T=46585
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-164368653.896 (improved by inf)
+Train: iter 1 with M=5 T=46585
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2129421.87375 (improved by 162239232.022)
+Train: iter 2 with M=5 T=46585
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2113142.82531 (improved by 16279.0484419)
+Train: iter 3 with M=5 T=46585
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2109373.88544 (improved by 3768.9398661)
+S-27C
+Train: iter 0 with M=5 T=107344
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-565414248.375 (improved by inf)
+Train: iter 1 with M=5 T=107344
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5165561.32418 (improved by 560248687.051)
+Train: iter 2 with M=5 T=107344
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5147352.18585 (improved by 18209.1383298)
+Train: iter 3 with M=5 T=107344
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5140179.39752 (improved by 7172.78833038)
+S-23C
+Train: iter 0 with M=5 T=66107
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-287332472.743 (improved by inf)
+Train: iter 1 with M=5 T=66107
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3067192.70273 (improved by 284265280.041)
+Train: iter 2 with M=5 T=66107
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3053470.30081 (improved by 13722.4019195)
+Train: iter 3 with M=5 T=66107
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3043522.51808 (improved by 9947.7827255)
+S-6B
+Train: iter 0 with M=5 T=41049
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-251775404.542 (improved by inf)
+Train: iter 1 with M=5 T=41049
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1949929.78008 (improved by 249825474.762)
+Train: iter 2 with M=5 T=41049
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1940016.33344 (improved by 9913.44664065)
+Train: iter 3 with M=5 T=41049
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1936199.61428 (improved by 3816.71915285)
+S-5A
+Train: iter 0 with M=5 T=73262
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-400725880.484 (improved by inf)
+Train: iter 1 with M=5 T=73262
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3518265.51846 (improved by 397207614.966)
+Train: iter 2 with M=5 T=73262
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3498053.83408 (improved by 20211.6843797)
+Train: iter 3 with M=5 T=73262
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3490437.09263 (improved by 7616.74145002)
+S-11C
+Train: iter 0 with M=5 T=72617
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-334541473.527 (improved by inf)
+Train: iter 1 with M=5 T=72617
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3448423.73285 (improved by 331093049.795)
+Train: iter 2 with M=5 T=72617
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3426188.56114 (improved by 22235.171714)
+Train: iter 3 with M=5 T=72617
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3413477.81795 (improved by 12710.7431834)
+S-16D
+Train: iter 0 with M=5 T=98983
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-554339259.759 (improved by inf)
+Train: iter 1 with M=5 T=98983
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4738964.4649 (improved by 549600295.294)
+Train: iter 2 with M=5 T=98983
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4704776.28529 (improved by 34188.1796046)
+Train: iter 3 with M=5 T=98983
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4687559.78123 (improved by 17216.5040642)
+S-20D
+Train: iter 0 with M=5 T=91493
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-718738598.093 (improved by inf)
+Train: iter 1 with M=5 T=91493
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4380435.04655 (improved by 714358163.046)
+Train: iter 2 with M=5 T=91493
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4325280.37833 (improved by 55154.6682244)
+Train: iter 3 with M=5 T=91493
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4307087.37779 (improved by 18193.0005367)
+S-29A
+Train: iter 0 with M=5 T=72181
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-360383821.513 (improved by inf)
+Train: iter 1 with M=5 T=72181
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3420815.74984 (improved by 356963005.764)
+Train: iter 2 with M=5 T=72181
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3410555.69623 (improved by 10260.0536069)
+Train: iter 3 with M=5 T=72181
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3407042.19148 (improved by 3513.50475315)
+S-14B
+Train: iter 0 with M=5 T=76991
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-327599247.445 (improved by inf)
+Train: iter 1 with M=5 T=76991
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3630697.79744 (improved by 323968549.648)
+Train: iter 2 with M=5 T=76991
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3608866.29986 (improved by 21831.4975769)
+Train: iter 3 with M=5 T=76991
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3599745.5585 (improved by 9120.7413562)
+S-32D
+Train: iter 0 with M=5 T=70638
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-373032456.845 (improved by inf)
+Train: iter 1 with M=5 T=70638
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3358727.15168 (improved by 369673729.693)
+Train: iter 2 with M=5 T=70638
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3337908.88971 (improved by 20818.2619674)
+Train: iter 3 with M=5 T=70638
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3331021.56127 (improved by 6887.32843898)
+S-22B
+Train: iter 0 with M=5 T=106486
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-675348806.76 (improved by inf)
+Train: iter 1 with M=5 T=106486
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5050124.08794 (improved by 670298682.672)
+Train: iter 2 with M=5 T=106486
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5024252.13418 (improved by 25871.9537606)
+Train: iter 3 with M=5 T=106486
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5002320.1096 (improved by 21932.0245783)
+S-28D
+Train: iter 0 with M=5 T=68236
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-352170771.269 (improved by inf)
+Train: iter 1 with M=5 T=68236
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3232411.03158 (improved by 348938360.237)
+Train: iter 2 with M=5 T=68236
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3221161.71397 (improved by 11249.3176048)
+Train: iter 3 with M=5 T=68236
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3218052.53002 (improved by 3109.18394865)
+S-4D
+Train: iter 0 with M=5 T=66182
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-360722817.074 (improved by inf)
+Train: iter 1 with M=5 T=66182
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3181388.86911 (improved by 357541428.204)
+Train: iter 2 with M=5 T=66182
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3156352.37832 (improved by 25036.4907881)
+Train: iter 3 with M=5 T=66182
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3144795.5519 (improved by 11556.8264251)
+S-8D
+Train: iter 0 with M=5 T=68109
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-301778440.233 (improved by inf)
+Train: iter 1 with M=5 T=68109
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3245880.30637 (improved by 298532559.927)
+Train: iter 2 with M=5 T=68109
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3222257.81497 (improved by 23622.4914024)
+Train: iter 3 with M=5 T=68109
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3203855.84665 (improved by 18401.9683201)
+S-13A
+Train: iter 0 with M=5 T=55500
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-235786650.981 (improved by inf)
+Train: iter 1 with M=5 T=55500
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2565617.45922 (improved by 233221033.522)
+Train: iter 2 with M=5 T=55500
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2551294.81548 (improved by 14322.6437357)
+Train: iter 3 with M=5 T=55500
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2547072.64004 (improved by 4222.17544032)
+S-3C
+Train: iter 0 with M=5 T=48476
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-220772536.483 (improved by inf)
+Train: iter 1 with M=5 T=48476
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2275075.5142 (improved by 218497460.969)
+Train: iter 2 with M=5 T=48476
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2265161.09929 (improved by 9914.41491012)
+Train: iter 3 with M=5 T=48476
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2262299.90191 (improved by 2861.19737341)
+S-12D
+Train: iter 0 with M=5 T=27488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-137154121.043 (improved by inf)
+Train: iter 1 with M=5 T=27488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1289232.33689 (improved by 135864888.706)
+Train: iter 2 with M=5 T=27488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1282742.66462 (improved by 6489.67227111)
+Train: iter 3 with M=5 T=27488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-1277350.49922 (improved by 5392.16540207)
+S-18B
+Train: iter 0 with M=5 T=81782
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-451173632.415 (improved by inf)
+Train: iter 1 with M=5 T=81782
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3926849.54227 (improved by 447246782.873)
+Train: iter 2 with M=5 T=81782
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3890739.41538 (improved by 36110.1268942)
+Train: iter 3 with M=5 T=81782
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3874244.56748 (improved by 16494.8479026)
+S-26B
+Train: iter 0 with M=5 T=78596
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-505563193.24 (improved by inf)
+Train: iter 1 with M=5 T=78596
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3805333.68752 (improved by 501757859.552)
+Train: iter 2 with M=5 T=78596
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3789215.63591 (improved by 16118.0516138)
+Train: iter 3 with M=5 T=78596
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3780960.9716 (improved by 8254.66430379)
+S-30B
+Train: iter 0 with M=5 T=92482
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-618163511.959 (improved by inf)
+Train: iter 1 with M=5 T=92482
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4429185.90282 (improved by 613734326.056)
+Train: iter 2 with M=5 T=92482
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4402868.17266 (improved by 26317.7301583)
+Train: iter 3 with M=5 T=92482
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4391383.52814 (improved by 11484.644522)
+S-9A
+Train: iter 0 with M=5 T=79116
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-450779948.239 (improved by inf)
+Train: iter 1 with M=5 T=79116
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3805776.64699 (improved by 446974171.592)
+Train: iter 2 with M=5 T=79116
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3790635.23524 (improved by 15141.4117547)
+Train: iter 3 with M=5 T=79116
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3778288.35847 (improved by 12346.8767705)
+S-2B
+Train: iter 0 with M=5 T=46400
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-286392292.792 (improved by inf)
+Train: iter 1 with M=5 T=46400
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2217565.16169 (improved by 284174727.631)
+Train: iter 2 with M=5 T=46400
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2193051.19836 (improved by 24513.9633226)
+Train: iter 3 with M=5 T=46400
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2182285.53404 (improved by 10765.6643188)
+S-17A
+Train: iter 0 with M=5 T=144069
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-825267522.168 (improved by inf)
+Train: iter 1 with M=5 T=144069
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-6993855.3746 (improved by 818273666.794)
+Train: iter 2 with M=5 T=144069
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-6956545.79933 (improved by 37309.5752757)
+Train: iter 3 with M=5 T=144069
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-6940359.43475 (improved by 16186.3645759)
+S-25A
+Train: iter 0 with M=5 T=125584
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-730326918.459 (improved by inf)
+Train: iter 1 with M=5 T=125584
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-6026319.52067 (improved by 724300598.938)
+Train: iter 2 with M=5 T=125584
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5980461.05623 (improved by 45858.4644474)
+Train: iter 3 with M=5 T=125584
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-5964846.93804 (improved by 15614.1181849)
+S-15C
+Train: iter 0 with M=5 T=81047
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-534624922.107 (improved by inf)
+Train: iter 1 with M=5 T=81047
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3912252.8181 (improved by 530712669.289)
+Train: iter 2 with M=5 T=81047
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3903491.0339 (improved by 8761.78420227)
+Train: iter 3 with M=5 T=81047
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-3899835.087 (improved by 3655.94689774)
+S-1A
+Train: iter 0 with M=5 T=63496
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-288335899.764 (improved by inf)
+Train: iter 1 with M=5 T=63496
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2996016.13076 (improved by 285339883.633)
+Train: iter 2 with M=5 T=63496
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2979571.09277 (improved by 16445.0379912)
+Train: iter 3 with M=5 T=63496
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-2973716.46151 (improved by 5854.63125154)
+S-24D
+Train: iter 0 with M=5 T=87488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-422828469.314 (improved by inf)
+Train: iter 1 with M=5 T=87488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4144172.5931 (improved by 418684296.721)
+Train: iter 2 with M=5 T=87488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4093923.82956 (improved by 50248.7635429)
+Train: iter 3 with M=5 T=87488
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4072142.29828 (improved by 21781.5312782)
+S-31C
+Train: iter 0 with M=5 T=103439
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-641120633.011 (improved by inf)
+Train: iter 1 with M=5 T=103439
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4997726.12677 (improved by 636122906.884)
+Train: iter 2 with M=5 T=103439
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4971517.08659 (improved by 26209.0401769)
+Train: iter 3 with M=5 T=103439
+m=0
+m=1
+m=2
+m=3
+m=4
+logL=-4962181.22473 (improved by 9335.86185718)
+S-10B
+S-10B -411519.009701
+S-25A -421729.407937
+S-31C -422809.86147
+S-7C -424686.132024
+S-30B -424749.304828
+S-21A
+S-21A -53680.0666354
+S-17A -54916.3846972
+S-27C -55194.7301911
+S-4D -55491.8976565
+S-5A -55588.4618325
+S-7C
+S-7C -887730.957307
+S-6B -901352.684232
+S-15C -909119.497032
+S-2B -909349.031612
+S-10B -909997.023085
+S-19C
+S-19C -138248.153369
+S-13A -142490.116701
+S-18B -143030.908179
+S-4D -143476.326238
+S-5A -143829.599005
+S-27C
+S-27C -153509.604418
+S-21A -155372.517941
+S-14B -156220.230298
+S-5A -156706.914618
+S-29A -156939.138825
+S-23C
+S-23C -70887.7108848
+S-11C -71532.6369401
+S-22B -72107.6444865
+S-2B -72229.6586373
+S-32D -72684.7149453
+S-6B
+S-6B -629253.917074
+S-7C -642265.788314
+S-11C -644689.282432
+S-30B -645526.697333
+S-2B -645714.834062
+S-5A
+S-5A -520002.712093
+S-14B -530477.428038
+S-29A -531586.289872
+S-27C -532438.603601
+S-21A -532603.635475
+S-11C
+S-11C -335711.047278
+S-2B -342807.656765
+S-6B -344777.525722
+S-22B -345171.596448
+S-7C -347128.887255
+S-16D
+S-16D -963677.657713
+S-8D -991583.898174
+S-31C -992559.785719
+S-32D -997788.117898
+S-25A -1000798.51861
+S-20D
+S-20D -135766.999306
+S-8D -139021.083481
+S-30B -139894.561413
+S-16D -140129.634312
+S-15C -140739.441602
+S-29A
+S-29A -83768.1529823
+S-13A -85313.5952286
+S-5A -85353.9828778
+S-14B -85460.7313638
+S-4D -85856.515609
+S-14B
+S-14B -49112.351465
+S-13A -49457.2172357
+S-21A -49818.5217352
+S-29A -49925.4503933
+S-5A -50025.1621362
+S-32D
+S-32D -577882.572747
+S-16D -591189.246387
+S-26B -592628.701454
+S-25A -592820.196884
+S-6B -592868.427065
+S-22B
+S-22B -533421.299826
+S-11C -540349.004679
+S-16D -540978.266216
+S-32D -541909.022317
+S-2B -542794.79261
+S-28D
+S-28D -344217.819943
+S-4D -350472.479395
+S-9A -351340.27555
+S-21A -352571.444287
+S-18B -353592.055898
+S-4D
+S-4D -720295.660927
+S-21A -737209.040979
+S-13A -737967.511224
+S-5A -738370.466158
+S-18B -742694.547379
+S-8D
+S-8D -691852.990319
+S-16D -711349.258681
+S-20D -711736.975713
+S-26B -717157.818451
+S-15C -717196.669586
+S-13A
+S-13A -477770.121954
+S-18B -488054.34352
+S-29A -494163.19365
+S-4D -494183.240072
+S-5A -497225.785856
+S-3C
+S-3C -403187.442852
+S-13A -409673.335945
+S-18B -411555.941064
+S-9A -411737.052524
+S-12D -413198.839897
+S-12D
+S-12D -218454.984614
+S-13A -221321.200226
+S-18B -222534.776114
+S-1A -224695.81606
+S-5A -224962.562351
+S-18B
+S-18B -68245.338025
+S-13A -68787.5936078
+S-21A -69511.809649
+S-27C -69562.9841687
+S-5A -69596.4517334
+S-26B
+S-8D -21731.8003871
+S-16D -21772.554466
+S-26B -21801.3782841
+S-30B -21912.6572849
+S-20D -22028.5259202
+S-30B
+S-30B -85968.7837814
+S-26B -87941.2102958
+S-10B -88602.0203423
+S-8D -88613.9985645
+S-32D -88755.5758804
+S-9A
+S-9A -496641.11052
+S-17A -504839.117712
+S-6B -507702.792432
+S-21A -508619.184481
+S-4D -509903.966618
+S-2B
+S-2B -718612.791712
+S-11C -721353.500236
+S-22B -728874.315333
+S-8D -731049.201409
+S-7C -731870.613018
+S-17A
+S-17A -540759.069928
+S-21A -551493.966072
+S-9A -555838.28108
+S-24D -557263.109477
+S-4D -561033.478482
+S-25A
+S-25A -216414.641362
+S-32D -218547.618847
+S-20D -219709.05122
+S-6B -220061.139039
+S-15C -220510.181481
+S-15C
+S-15C -643654.446536
+S-25A -648728.160648
+S-6B -651597.406182
+S-32D -652598.174246
+S-7C -654521.611804
+S-1A
+S-1A -462808.165686
+S-13A -464626.845673
+S-18B -469570.848753
+S-19C -472027.456393
+S-29A -472199.247752
+S-24D
+S-24D -385873.078215
+S-17A -402398.647112
+S-9A -406414.777724
+S-13A -406466.598337
+S-18B -407054.324457
+S-31C
+S-31C -721792.728566
+S-16D -733928.075369
+S-25A -735524.631132
+S-8D -738045.4216
+S-10B -738341.138408
+0.96875 accuracy

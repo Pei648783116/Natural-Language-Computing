@@ -1,0 +1,18 @@
+The model performance are the following:
+
+gru, hidden size 5 and learning rate of 1e-4: Model test accuracy: 0.323
+gru, hidden size 10 and learning rate of 1e-4: Model test accuracy: 0.355
+gru, hidden size 50 and learning rate of 1e-4: Model test accuracy: 0.581
+
+
+gru, hidden size 5 and learning rate of 1e-2: Model test accuracy: 0.323
+gru, hidden size 10 and learning rate of 1e-2: Model test accuracy: 0.387
+gru, hidden size 50 and learning rate of 1e-2: Model test accuracy: 0.323
+
+gru, hidden size 5 and learning rate of 1e0: Model test accuracy: 0.226
+gru, hidden size 10 and learning rate of 1e0: Model test accuracy: 0.258
+gru, hidden size 50 and learning rate of 1e0: Model test accuracy: 0.258
+
+Yes there is a trend in the hidden size where the bigger the hidden sizes the higher the accuracy. However this trend is only observed at smaller learning rate, for learning rate of 1e-2 and 1e0, this trend does not occur.
+
+It can also be observed that smaller learning rate tend to perform better than larger ones. 
